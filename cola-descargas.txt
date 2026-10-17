@@ -1,0 +1,4 @@
+Titulo Video 1
+https://embed-cloudfront.wistia.com/deliveries/xxx.m3u8
+Titulo Video 2
+https://embed-cloudfront.wistia.com/deliveries/yyy.m3u8
